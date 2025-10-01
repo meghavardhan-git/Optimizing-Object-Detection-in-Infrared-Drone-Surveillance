@@ -1,4 +1,3 @@
-# Optimizing-Object-Detection-For-Infrared-Drone-Survillance
 # 🚀 Optimizing Object Detection in Infrared Drone Surveillance
 
 This repository contains experiments and implementations for optimizing object detection models on **infrared drone imagery**. The project focuses on evaluating and comparing different deep learning models — **RetinaNet, YOLOv8, and YOLOv10** — for UAV-based thermal surveillance.  
